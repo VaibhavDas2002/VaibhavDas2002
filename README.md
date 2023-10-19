@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **djvaibhav900@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11UKCDUrlu_TBDGx4gVfYvoR-EEAXD8Ge/view?usp=sharing](https://drive.google.com/file/d/11UKCDUrlu_TBDGx4gVfYvoR-EEAXD8Ge/view?usp=sharing)
+- 📄 Know about my experiences [Vaibhav_CV](http://bit.ly/Vaibhav_1CV)
 
 - ⚡ Fun fact **On free times I make videos for Social Networks**
 
