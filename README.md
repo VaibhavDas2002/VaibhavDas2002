@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
-- 👯 I’m looking to collaborate on **Open Sourc Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 🤝 I’m looking for help with **Bloodmates using react native**
 
@@ -21,13 +21,13 @@
 
 - 📫 How to reach me **djvaibhav900@gmail.com**
 
-- 📄 Know about my experiences [Vaibhav_CV](http://bit.ly/Vaibhav_1CV)
+- 📄 Know about my experiences [Vaibhav_CV](https://drive.google.com/file/d/1WhBNj6X0gkhQiBvZtv34-MX-K8Nlyt3M/view?usp=drive_link)
 
 - ⚡ Fun fact **On free times I make videos for Social Networks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vaibhavdas2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavdas2002" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/vaibhav-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavdas2002" height="30" width="40" /></a>
 <a href="https://fb.com/vaibhva.das.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vaibhva.das.10" height="30" width="40" /></a>
 <a href="https://instagram.com/_xoxo_vaibhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_xoxo_vaibhav" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vaibhav_das_25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaibhav_das_25" height="30" width="40" /></a>
