@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on **React-Native Application**<br>👯 I’m looking to collaborate on **Open Source Projects** <br>🌱 I’m currently learning **Blockchain and Web3 Technologies**<br>💬 Ask me about **Python and Django Framework**<br>👨‍💻 All of my projects are available at [http://bit.ly/VaibhavDas](http://bit.ly/VaibhavDas)<br> 📫 How to reach me **djvaibhav900@gmail.com**<br>📄 Know about my experiences [Vaibhav_CV](https://drive.google.com/file/d/1WhBNj6X0gkhQiBvZtv34-MX-K8Nlyt3M/view?usp=drive_link) <br>⚡ Fun fact I make videos on Social Media
+🔭 I’m currently working on **React-Native Application**<br>👯 I’m looking to collaborate on **Open Source Projects** <br>🌱 I’m currently learning **Blockchain and Web3 Technologies**<br>💬 Ask me about **Python and Django Framework**<br>👨‍💻 All of my projects are available at [http://bit.ly/VaibhavDas](http://bit.ly/VaibhavDas)<br> 📫 How to reach me **djvaibhav900@gmail.com**<br>📄 Know about my experiences [Vaibhav_CV](https://drive.google.com/file/d/11UKCDUrlu_TBDGx4gVfYvoR-EEAXD8Ge/view?usp=drive_link) <br>⚡ Fun fact I make videos on Social Media
 
 ## 🌐 Socials:
 
